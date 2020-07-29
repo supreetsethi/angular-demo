@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AngularDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# angular-demo
+This application is to get familiar with angular features. This will help beginners to start learning bout angular components,  services, routing. How we can use different layouts in angular. 
+>>>>>>> a957f6d1c52bd0576c9f2e284fbbf587a106dc6c
