@@ -1,0 +1,26 @@
+[
+    {
+        "Item": "Home",
+        "Link": "home",
+        "SubItem": [
+            {
+                "Item": "SubItem 1",
+                "Link": "home"
+            },
+            {
+                "Item": "SubItem 2",
+                "Link": "home"
+            }
+        ]
+    },
+    {
+        "Item": "Products",
+        "Link": "products",
+        "SubItem": []
+    },
+    {
+        "Item": "Deals",
+        "Link": "deals",
+        "SubItem": []
+    }
+]

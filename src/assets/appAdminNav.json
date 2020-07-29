@@ -1,0 +1,16 @@
+[
+    {
+        "Item": "Admin",
+        "Link": "admin",
+        "SubItem": [
+            {
+                "Item": "Admin SubItem 1",
+                "Link": "home"
+            },
+            {
+                "Item": "Admin SubItem 2",
+                "Link": "home"
+            }
+        ]
+    }
+]
